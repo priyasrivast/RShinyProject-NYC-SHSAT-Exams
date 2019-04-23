@@ -1,0 +1,12 @@
+name: nycShsatExams
+title: nycShsatExams
+username:
+account: priyashinyprojects
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 883379
+bundleId: 2031254
+url: https://priyashinyprojects.shinyapps.io/nycShsatExams/
+when: 1555983620.03216
+asMultiple: FALSE
+asStatic: FALSE
